@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79651a78-1ba6-4147-a15e-c0415e975e09": {
+      "ProjectGuid": "79651a78-1ba6-4147-a15e-c0415e975e09",
+      "DisplayName": "WS2",
+      "ColorIndex": 0
+    },
+    "a391916d-c2d5-4c01-8d71-61fd59e9c21f": {
+      "ProjectGuid": "a391916d-c2d5-4c01-8d71-61fd59e9c21f",
+      "DisplayName": "WS2Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\WS2Tests.csproj": {}
+    "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\WS2Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\WS2Tests.csproj": {
+    "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\WS2Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\WS2Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\WS2Tests.csproj",
         "projectName": "WS2Tests",
-        "projectPath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\WS2Tests.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\WS2Tests.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\WS2.csproj": {
-                "projectPath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\WS2.csproj"
+              "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\WS2.csproj": {
+                "projectPath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\WS2.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\WS2.csproj": {
+    "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\WS2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\WS2.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\WS2.csproj",
         "projectName": "WS2",
-        "projectPath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\WS2.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\WS2.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",

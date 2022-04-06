@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CX7y7QX0hZEecD6frs2fU6x0EsuzAoOPiOWZMUggpkSVlQSNklJxFDpmcWZWrPkOppiQf0VYTtkTwRl76Ix7WA==",
+  "dgSpecHash": "7/KBeSWMAcwKV8mt0aEPJAVDrS/KQjhXPjgn89te6Qqy4zkypV2y3vo2DBsYJ/2PdOMI3GnHjGR7wJ1mh6/pow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\source\\repos\\WS2\\WS2Tests\\WS2Tests.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\WS2\\WS2Tests\\WS2Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
